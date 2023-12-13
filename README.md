@@ -1,0 +1,2 @@
+# miniwin
+Minimal windows installation
